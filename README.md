@@ -20,7 +20,8 @@ An AI automation project built using **Make.com**, **Gemini AI**, and **LinkedIn
 - Free Plan Only – No paid API used
 
 ## 📸 Scenario Preview
-![Scenario Screenshot](screenshots/scenario1.png)
+![Scenario1 Screenshot](Scenario1.png)
+![Scenario2 Screenshot](Scenario2.png)
 
 ## 📎 Live Form
 [Submit a Test Campaign](https://docs.google.com/forms/d/1rpANXhgOn7qM1x4Wkx_zdLOKunxSCIfqo23dp7CZBZA/)
